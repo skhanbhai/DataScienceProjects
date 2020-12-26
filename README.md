@@ -6,7 +6,7 @@ Skills involved:
 * Simulating randomness in Python
 * Modelling real-life scenarios
 
-![]()
+![Pandemic Simulation]()
 
 
 ## [2. Retail Analytics]() 
