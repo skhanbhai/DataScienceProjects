@@ -6,7 +6,7 @@ Skills involved:
 * Simulating randomness in Python
 * Modelling real-life scenarios
 
-![Pandemic Simulation]()
+![Pandemic Simulation](https://github.com/skhanbhai/2020_12Projects/blob/main/01.%20Simulation/ChartofCasesvsDays.PNG?raw=true)
 
 
 ## [2. Retail Analytics]() 
