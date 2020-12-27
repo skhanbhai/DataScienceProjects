@@ -1,5 +1,5 @@
 # Welcome to Saqib's Portfolio Pages
-## Data Science Programming Portfolio
+## Data Science Short Projects
 ## [1. Python Simulations]() 
 Skills involved:
 * Object-oriented programming
